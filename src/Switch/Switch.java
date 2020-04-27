@@ -1,4 +1,4 @@
-package String;
+package Switch;
 
 public class Switch {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Switch {
                 System.out.println("urang acayan");
                 break;
             case 3:
-                System.out.println("obat nyamuk");
+                System.out.println("ubat nyamuk");
                 break;
             case 4:
                 System.out.println("dubil dit");
